@@ -124,6 +124,9 @@ footer{
     font-size: 25px;
     text-align: center;
 }
+.green{
+    color: #4BC800;
+}
 
 .bottomiconpic{
     color:white;
@@ -155,10 +158,10 @@ footer{
 .endmeeting{
     background-color: #4A4A4A;
     color: red;
-    align-content: center;
+    padding-top: 30px;
     height: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 15px;
+    padding-left: 15px;
 }
 
-.description{
-
-}
